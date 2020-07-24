@@ -1,0 +1,8 @@
+# Default ignored files
+/Working/configs.json
+
+
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
